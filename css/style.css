@@ -5,6 +5,10 @@
     padding: 0;
     box-sizing: border-box;
 } 
+#logo{
+    height: 3rem;
+    width: 3rem;
+}
 
 #nav-links a{
     color: rgb(247, 96, 26);   
